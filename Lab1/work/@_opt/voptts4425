@@ -1,0 +1,68 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\zh03605\CA
+T_opt
+Z1 V@bn?4m>JaJ>^33:hX1HPj3
+Z2 04 3 4 work RCC fast 0
+Z3 =1-989096d57915-5c4b08b7-387-14c8
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5c;42
+vDFF
+Z7 VKoKUl]Sa7=EGK>R<]TWK43
+r1
+31
+Z8 II>a7Y9efnWdmfPMzK=;;Y1
+Z9 w1548419978
+Z10 8DFF.v
+Z11 FDFF.v
+L0 1
+Z12 OE;L;6.5c;42
+Z13 o-L mtiAvm -L mtiOvm -L mtiUPF
+Z14 n@d@f@f
+!s85 0
+Z15 !s100 @H2magLiEzllkEOa1Zm5?2
+vRCC
+Z16 V]9D^A:4`Zg2XA]DIL2Wdn1
+r1
+31
+Z17 I3IJ2a;MEFO01ERKUI`N^21
+Z18 w1548419833
+Z19 8lab1.v
+Z20 Flab1.v
+L0 1
+R12
+R13
+Z21 n@r@c@c
+!s85 0
+Z22 !s100 MiHVz=ZZhgQED4b24UzlM0
+vTB
+Z23 Vc<=32996OT2f`M7E_UhYX1
+r1
+31
+Z24 IDDUTM`S_@^X3@R@nlf2<L1
+Z25 w1548419895
+8TB.v
+FTB.v
+L0 1
+R12
+R13
+n@t@b
+!s85 0
+Z26 !s100 ibA?hR>KzWY3S1>AGQ6Ni2
+vTFF
+Z27 V^U1Le=zl`Ea]i3ND4>@A00
+r1
+31
+Z28 I0BYTMZ]A`F4S18bGCdH3d1
+Z29 w1548419831
+Z30 8TFF.v
+Z31 FTFF.v
+L0 1
+R12
+R13
+Z32 n@t@f@f
+!s85 0
+Z33 !s100 k72gQClU:AiCXY@0Zo8@b1

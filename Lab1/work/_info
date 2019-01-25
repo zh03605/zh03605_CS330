@@ -1,0 +1,86 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\zh03605\CA
+T_opt
+V@bn?4m>JaJ>^33:hX1HPj3
+04 3 4 work RCC fast 0
+=1-989096d57915-5c4b08b7-387-14c8
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OE;O;6.5c;42
+T_opt1
+Va^HHYgm[<UmNYL5<?M:fe2
+04 2 4 work TB fast 0
+=1-989096d57915-5c4b08be-76-3efc
+R1
+n@_opt1
+R2
+T_opt2
+V4mK?>DlSG<^5ejK_A?@^82
+04 3 4 work TFF fast 0
+=1-989096d57915-5c4b08d1-371-4320
+R1
+n@_opt2
+R2
+vDFF
+VKoKUl]Sa7=EGK>R<]TWK43
+r1
+!s85 0
+31
+IMG46?0]PLBmeWFR4oXO=c1
+Z3 dC:\Users\zh03605\CA\Lab1
+w1548422337
+8DFF.v
+FDFF.v
+L0 1
+Z4 OE;L;6.5c;42
+Z5 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@d@f@f
+!s100 _6Mz:oc2lnOZNb[2?K;L20
+vRCC
+Va??4j:F?W[FecPBoAm4J?2
+r1
+31
+I0l@>^N<cVLF<9Eg;oih8N0
+R3
+w1548421508
+8lab1.v
+Flab1.v
+L0 1
+R4
+R5
+n@r@c@c
+!s85 0
+!s100 ciimhl@KaYkmRCC>5fXeb0
+vTB
+Vc<=32996OT2f`M7E_UhYX1
+r1
+31
+Il>V=3_BzANK<EFk8VjQ<d3
+R3
+w1548422152
+8TB.v
+FTB.v
+L0 1
+R4
+R5
+n@t@b
+!s85 0
+!s100 FO057:N:k@9^dabJ53bWG1
+vTFF
+V^U1Le=zl`Ea]i3ND4>@A00
+r1
+31
+I0BYTMZ]A`F4S18bGCdH3d1
+R3
+w1548419831
+8TFF.v
+FTFF.v
+L0 1
+R4
+R5
+n@t@f@f
+!s85 0
+!s100 k72gQClU:AiCXY@0Zo8@b1
