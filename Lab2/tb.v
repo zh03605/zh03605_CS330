@@ -19,6 +19,9 @@ module TB
   sel = 1'b0;
   a = 64'b0;
   b = 64'b1;
-  #50 sel = 1'b1;
+  #20 a = 64'b1;
+  #5 a = 64'b0;
   end 
+  always 
+  #10 sel = ~sel;
 endmodule 

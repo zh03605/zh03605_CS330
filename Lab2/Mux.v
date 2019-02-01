@@ -4,7 +4,7 @@ module Mux
   input sel,
   output reg [63:0] out
   );
-  always @ (sel)
+  always @ (sel, a, b)
     begin
       if (sel)
         out <= b;

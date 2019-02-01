@@ -5,9 +5,11 @@ module Mux
   output reg [63:0] out
   );
   always @ (sel)
-    if (sel)
-      out <= b;
-    else
-     out <= a;
+    begin
+      if (sel)
+        out <= b;
+      else
+        out <= a;
+    end 
   
 endmodule
