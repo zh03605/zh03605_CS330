@@ -1,0 +1,54 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\zh03605\CA\Lab5
+T_opt
+Z1 V5Tkb2H;`bF3C`oBU425222
+Z2 04 16 4 work InstrctionParser fast 0
+Z3 =1-989096d57915-5c66a94b-13e-26a4
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5c;42
+vInstrctionParser
+Z7 IbjBU630kdoN09FSOFAK`b3
+Z8 Vj2P06KQkPBQXMBLR_8>0T2
+Z9 w1550231650
+Z10 8InstructionParser.v
+Z11 FInstructionParser.v
+L0 1
+Z12 OE;L;6.5c;42
+r1
+31
+Z13 o-L mtiAvm -L mtiOvm -L mtiUPF
+Z14 n@instrction@parser
+Z15 !s100 1_aOl2412f:>OVdgV_YQF1
+!s85 0
+vInstructionParser
+Z16 Ioi02fd4En4lSTbT:6NT@51
+Z17 VEjFSA33jNgOm^1ig0oOId1
+Z18 w1550231788
+R10
+R11
+L0 1
+R12
+r1
+31
+R13
+Z19 n@instruction@parser
+Z20 !s100 n<o7XKC1XMP>>a6Mm2`O93
+!s85 0
+vTB
+Z21 I7?GKNWcXAj5QNUh63M5z_2
+Z22 Vc<=32996OT2f`M7E_UhYX1
+Z23 w1550231633
+8TB.v
+FTB.v
+L0 1
+R12
+r1
+31
+R13
+n@t@b
+Z24 !s100 =91J>G9OQ=@]JYHc[]F<B0
+!s85 0
