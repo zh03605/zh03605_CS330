@@ -45,7 +45,7 @@ module TB
 		
 		regWrite = 0;
 		#10 rd = 5'd7;
-		
+		rs1 = 5'd7;
 		end
 		
 		
