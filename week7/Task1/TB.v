@@ -40,6 +40,7 @@ module TB
 		#10 rd = 5'd6;
 		rs1 = 5'd6;
 		#10 reset = 1;
+		rs2 = 5'd6;
 		#10 reset = 0;
 		rd = 5'b0;
 		
