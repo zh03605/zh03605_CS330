@@ -1,0 +1,34 @@
+module Top
+  (
+  input [31:0]instruction,
+	output [63:0] ReadData1,
+	output [63:0] ReadData2
+  );
+  wire [4:0] rs1,rs2,rd;
+ 
+  
+  InstructionParser IP
+  (
+  .instruction(instruction),
+	.rd(rd),
+	.rs1(rs1),
+	.rs2(rs2),
+	.opcode(),
+	.funct3(),
+	.funct7()
+  );
+  
+  registerFile rF
+  (
+  .ReadData1(ReadData1),
+	.ReadData2(ReadData2),
+	.rd(rd),
+	.rs1(rs1),
+	.rs2(rs2),
+	.RegWrite(),
+	.writeData(),
+	.clk(),
+	.reset()
+  );
+  
+endmodule

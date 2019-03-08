@@ -1,0 +1,60 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\HU\Week7-Task4
+vInstructionParser
+VEjFSA33jNgOm^1ig0oOId1
+r1
+31
+Ioi02fd4En4lSTbT:6NT@51
+w1551446705
+8InstructionParser.v
+FInstructionParser.v
+L0 1
+Z1 OE;L;6.5c;42
+Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@instruction@parser
+!s85 0
+!s100 n<o7XKC1XMP>>a6Mm2`O93
+vregisterFile
+VeT_CS<10mYFA[<>ln`]Gi0
+r1
+!s85 0
+31
+Ick[6SzPB80TUmLG4odb^X2
+w1552038047
+8registerFile.v
+FregisterFile.v
+L0 1
+R1
+R2
+nregister@file
+!s100 ;9HT0`ng^dj<Fo6i[4JG63
+vtb3
+Vh968^YS8ikM[lU8_3U[2T1
+r1
+31
+I;U?l@G[Kdb4KS:HgWVEaj3
+w1552038176
+8tb3.v
+Ftb3.v
+L0 1
+R1
+R2
+!s85 0
+!s100 Ae4_GHQ[m;T6dNE8I5h^K1
+vTop
+VD=>EA0fmEJnjE<kFKn2A]1
+r1
+31
+I]9_<f?=jdX3`OaADz9m``2
+w1552038160
+8Top.v
+FTop.v
+L0 1
+R1
+R2
+n@top
+!s85 0
+!s100 77Q@N17fPiLT8Gd4LB7=80
