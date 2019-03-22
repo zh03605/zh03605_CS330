@@ -1,0 +1,59 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\HU\CA-Labs\Week9\Task3
+vALU_Control
+VJKiN[HX;K^A85inePJhil1
+r1
+!s85 0
+31
+I=VmeYZMb93cRC?[k^:Xjf0
+w1553255097
+8ALU_Control.v
+FALU_Control.v
+L0 1
+Z1 OE;L;6.5c;42
+Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@a@l@u_@control
+!s100 J92TM0zK;aW=4c8=ZF1<L1
+vControl_Unit
+VfNV5zcKMN`RgX9B=m7iAN3
+r1
+31
+I_80AW5FQ13L@h`[;4F`Q@3
+w1553253100
+8Control_Unit.v
+FControl_Unit.v
+L0 1
+R1
+R2
+n@control_@unit
+!s85 0
+!s100 ZK<5GNfRe8o];@N[mKh:>3
+vtb
+VV@Xn<HnSRM[I5c1?BH]3a3
+r1
+31
+IB^bJl><FjhN=ecUDlfZb43
+w1553257039
+8tb.v
+Ftb.v
+L0 1
+R1
+R2
+!s85 0
+!s100 mhj^h=;aJ>RAd1OJQ;<b41
+vtop_control
+V3f2DB^V7X[o1e;cB4gPOL3
+r1
+31
+IdRT;UI@9<CN>9GjeOS^5A2
+w1553256518
+8top_control.v
+Ftop_control.v
+L0 1
+R1
+R2
+!s85 0
+!s100 F:dLK0UBDnOVT^KcMmfA92
