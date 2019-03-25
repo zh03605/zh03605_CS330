@@ -51,6 +51,8 @@ module registerFile
 	begin
 	  if (rd != 0)
 		  Registar[rd] = writeData;
+		  readData1 = Registar[rs1];
+		  readData2 = Registar[rs2];
 	end
 	
 	always @ (rs1 or rs2 or reset)
